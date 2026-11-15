@@ -1,0 +1,2 @@
+# Effect-of-Advertisement-on-Consumer-Brand-Preference-in-Food-Industry
+Marketing Survey based research project on how advertising shapes Consumer brand preference in India’s food industry. 100-respondent survey analysed in Excel: ad media, celebrity endorsement, slogans, purchase motives (percentage analysis, charts). Includes full report, questionnaire, findings and recommendations. (B.Com, Madras Christian College)
